@@ -1,3 +1,6 @@
+### Description of Project
+The goal of this project was to create a 2D platforming game using Java and JavaFX. 
+
 ### Coding Style
 <a href="https://oracle.com/technetwork/java/codeconventions-150003.pdf">Oracle</a>
 
