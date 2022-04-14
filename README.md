@@ -1,5 +1,5 @@
 ### Description of Project
-The goal of this project was to create a 2D platforming game using Java and JavaFX. 
+The goal of this project was to create a 2D platforming game using Java and JavaFX. This was part of an assignment for a 2nd year undergraduate software development at the University of Sydney. 
 
 ### Coding Style
 <a href="https://oracle.com/technetwork/java/codeconventions-150003.pdf">Oracle</a>
