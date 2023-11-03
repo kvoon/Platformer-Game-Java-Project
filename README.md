@@ -8,7 +8,7 @@ The objective of this project was to expand upon a 2D platforming game using Jav
 src/main/resources/level_1.json
 
 ### Description of the Configuration file
-The config file has the hero as its own JSONObject.
+The config file has the hero as its own JSON object.
 The immovable, movable and enemy entities are all stored in
 three separate JSON arrays. Each entity that belongs to an
 array requires attributes specific to that array. This facilitates
