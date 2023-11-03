@@ -15,5 +15,10 @@ array requires attributes specific to that array. This facilitates
 the creation process and allows you to add a new entity anywhere in
 its corresponding JSON array.
 
+### Tech Stack
+- Java: Used as the programming language to code the game.
+- JavaFX: Used to render the GUI.
+- Gradle: Used to automate the compilation and testing of the software package.
+
 ## Acknowledgements
 <a href="https://opengameart.org/content/top-down-2d-metal-box">Block png</a><br>
