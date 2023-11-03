@@ -1,5 +1,5 @@
 ### Description of Project
-The objective of this project was to develop a 2D platforming game using Java and JavaFX. It was undertaken as a component of a second-year undergraduate software development course, where we were tasked with applying a range of Design Patterns acquired during the course to implement the necessary game features.
+The objective of this project was to expand upon a 2D platforming game using Java and JavaFX. It was undertaken as a component of a second-year undergraduate software development course, where we were tasked with applying a range of Design Patterns acquired during the course to implement the necessary game features. The original codebase provided was a barebones version of the platforming game, with the rudimentary mechanics (excluding jumping), game engine and GUI rendering already built. 
 
 ### Coding Style
 <a href="https://oracle.com/technetwork/java/codeconventions-150003.pdf">Oracle</a>
